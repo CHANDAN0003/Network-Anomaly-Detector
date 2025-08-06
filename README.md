@@ -31,6 +31,7 @@ The system uses the **CTU-13 dataset** for training and evaluation.
 
 ### 1. Clone the repository
 git clone github.com/CHANDAN0003/Network-Anomaly-Detector.git
+
 cd Network-Anomaly-Detector
 
 ### 2. Set up a virtual environment 
