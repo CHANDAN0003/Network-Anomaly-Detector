@@ -13,17 +13,28 @@ The system uses the **CTU-13 dataset** for training and evaluation.
 
 ## Project Structure
 ├── dashboard/
+
 │ └── streamlit_app.py # Main dashboard app
 ├── model/
+
 │ ├── train_model.py # Training script
+
 │ ├── evaluate.py # Evaluation script
+
 ├── nlp_encoder/
+
 │ └── flow_to_dna.py # Converts flow metadata to DNA sequences
+
 ├── results/
+
 │ ├── save_results.py # Saves model outputs
+
 │ └── init.py
+
 ├── Trial.ipynb # Jupyter notebook for experiments
+
 ├── requirements.txt # Dependencies
+
 ├── README.md # Project documentation
 
 
