@@ -1,0 +1,47 @@
+{
+    "syn_flag": {
+        "0": "SYN_0",
+        "1": "SYN_1",
+        "2": "SYN_2"
+    },
+    "fwd_pkts_s": [
+        "FPKT_LOW",
+        "FPKT_MED",
+        "FPKT_HIGH"
+    ],
+    "flow_pkts_s": [
+        "FLPKT_LOW",
+        "FLPKT_MED",
+        "FLPKT_HIGH"
+    ],
+    "bwd_pkts_s": [
+        "BPKT_LOW",
+        "BPKT_MED",
+        "BPKT_HIGH"
+    ],
+    "init_bwd_win": [
+        "WIN_LOW",
+        "WIN_MED",
+        "WIN_HIGH"
+    ],
+    "active_min": [
+        "ACTMIN_LOW",
+        "ACTMIN_MED",
+        "ACTMIN_HIGH"
+    ],
+    "active_mean": [
+        "ACTMEAN_LOW",
+        "ACTMEAN_MED",
+        "ACTMEAN_HIGH"
+    ],
+    "fwd_pkt_len_min": [
+        "FPLEN_LOW",
+        "FPLEN_MED",
+        "FPLEN_HIGH"
+    ],
+    "bwd_iat_tot": [
+        "BIAT_LOW",
+        "BIAT_MED",
+        "BIAT_HIGH"
+    ]
+}
